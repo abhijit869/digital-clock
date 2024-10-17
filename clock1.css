@@ -1,0 +1,8 @@
+*{background-image:url("nature.jpg");
+ background-size: cover;}
+#clock{
+    font-size: 900px;
+    width: 900px;
+    display:contents;
+}
+
